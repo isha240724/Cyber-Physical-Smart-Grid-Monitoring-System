@@ -39,8 +39,22 @@ Cyber-Physical-Smart-Grid-Monitoring-System
 - Total Anomalies Counter
 
 ## 🖼️ Project Screenshots
-Screenshots are available in the `screenshots` folder.
+## 🖼️ Project Screenshots
 
+### Dashboard
+![Dashboard](screenshots/Dashboard.png.png)
+
+### Project Cover
+![Project Cover](screenshots/01_Project_Cover.png)
+
+### System Architecture
+![System Architecture](screenshots/02_System_Architecture.png)
+
+### Database Pipeline
+![Database Pipeline](screenshots/03_Database_Pipeline.png)
+
+### Features
+![Features](screenshots/05_Features.png)
 ## 👨‍💻 Author
 Mohammad Isha  
 B.Tech Electrical Engineering  
