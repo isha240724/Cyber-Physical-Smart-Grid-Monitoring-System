@@ -38,14 +38,14 @@ Cyber-Physical-Smart-Grid-Monitoring-System
 - Cyber Attack Indicator
 - Total Anomalies Counter
 
-## 🖼️ Project Screenshots
-## 🖼️ Project Screenshots
 
-### Dashboard
-![Dashboard](screenshots/Dashboard.png.png)
+## 🖼️ Project Screenshots
 
 ### Project Cover
 ![Project Cover](screenshots/01_Project_Cover.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png.png)
 
 ### System Architecture
 ![System Architecture](screenshots/02_System_Architecture.png)
